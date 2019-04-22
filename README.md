@@ -5,4 +5,4 @@ Wordpress
 Для установки модуля скачайте и распакуйте архив.
 Далее следуйте прилагаемой инструкции
 
-Поддержка версии CMS Wordpress 4.x (Woocommerce)
+Поддержка версии CMS Wordpress 4.x - 5.x (Woocommerce)

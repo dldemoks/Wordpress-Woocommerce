@@ -1,8 +1,8 @@
 Wordpress
 ======
-Модуль оплаты Payeer
+Payment module Payeer
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download all the files.
+Then follow the attached instructions.
 
-Поддержка версии CMS Wordpress 4.x - 5.x (Woocommerce)
+Support for CMS Wordpress 4.x - 5.x with Woocommerce
